@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260412-204528-mgb7",
+      "title": "An Angel In Love",
+      "commanders": [
+        "An Angel In Love"
+      ],
+      "dateStart": "2026-04-12T19:45:28.000Z",
+      "dateEnd": "2026-04-12T20:26:16.000Z",
+      "dateLabel": "12/04/2026, 20:45:28 - 12/04/2026, 21:26:16",
+      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260412-204528-mgb7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260410-210839-5ovu",
       "title": "Darks Traya",
       "commanders": [
