@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260417-221251-m4aa",
+      "title": "Darks Traya",
+      "commanders": [
+        "Darks Traya"
+      ],
+      "dateStart": "2026-04-17T21:12:51.000Z",
+      "dateEnd": "2026-04-17T22:02:29.000Z",
+      "dateLabel": "17/04/2026, 22:12:51 - 17/04/2026, 23:02:29",
+      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260417-221251-m4aa",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260412-204528-mgb7",
       "title": "An Angel In Love",
       "commanders": [
