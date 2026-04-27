@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260426-203846-lvpt",
+      "title": "Darks Traya",
+      "commanders": [
+        "Darks Traya"
+      ],
+      "dateStart": "2026-04-26T19:38:46.000Z",
+      "dateEnd": "2026-04-26T20:55:51.000Z",
+      "dateLabel": "26/04/2026, 20:38:46 - 26/04/2026, 21:55:51",
+      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260426-203846-lvpt",
+      "summary": {
+        "borderlandsPct": 0.25,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260417-221251-m4aa",
       "title": "Darks Traya",
       "commanders": [
