@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260427-193414-4e9t",
+      "title": "Chromatic Storm",
+      "commanders": [
+        "Chromatic Storm"
+      ],
+      "dateStart": "2026-04-27T18:34:14.000Z",
+      "dateEnd": "2026-04-27T18:43:40.000Z",
+      "dateLabel": "27/04/2026, 19:34:14 - 27/04/2026, 19:43:40",
+      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260427-193414-4e9t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260426-203846-lvpt",
       "title": "Darks Traya",
       "commanders": [
