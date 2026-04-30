@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260430-212338-hnaz",
+      "title": "Mr Dynamic",
+      "commanders": [
+        "Mr Dynamic"
+      ],
+      "dateStart": "2026-04-30T20:23:38.000Z",
+      "dateEnd": "2026-04-30T22:10:56.000Z",
+      "dateLabel": "30/04/2026, 21:23:38 - 30/04/2026, 23:10:56",
+      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260430-212338-hnaz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260427-193414-4e9t",
       "title": "Chromatic Storm",
       "commanders": [
