@@ -1,7 +1,31 @@
 {
   "colorPalette": "amber-warm",
   "glassSurfaces": true,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260502-190036-2yij",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-05-02T18:00:36.000Z",
+      "dateEnd": "2026-05-02T19:40:19.000Z",
+      "dateLabel": "02/05/2026, 19:00:36 - 02/05/2026, 20:40:19",
+      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260502-190036-2yij",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 46
+      }
+    },
     {
       "id": "20260430-212338-hnaz",
       "title": "Mr Dynamic",
