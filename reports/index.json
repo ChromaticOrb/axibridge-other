@@ -1,270 +1,242 @@
-{
-  "colorPalette": "amber-warm",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260619-210912-65tm",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
+[
+  {
+    "id": "20260619-210912-65tm",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-06-19T20:09:12.000Z",
+    "dateEnd": "2026-06-19T21:20:08.000Z",
+    "dateLabel": "19/06/2026, 21:09:12 - 19/06/2026, 22:20:08",
+    "url": "https://chromaticorb.github.io/axibridge-other/?report=20260619-210912-65tm",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 22,
+          "color": "#ffffff"
+        }
       ],
-      "dateStart": "2026-06-19T20:09:12.000Z",
-      "dateEnd": "2026-06-19T21:20:08.000Z",
-      "dateLabel": "19/06/2026, 21:09:12 - 19/06/2026, 22:20:08",
-      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260619-210912-65tm",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 22,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260619-210912-5bl5",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-06-19T20:09:12.000Z",
-      "dateEnd": "2026-06-19T21:20:08.000Z",
-      "dateLabel": "19/06/2026, 21:09:12 - 19/06/2026, 22:20:08",
-      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260619-210912-5bl5",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 22,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260619-210912-45vc",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-06-19T20:09:12.000Z",
-      "dateEnd": "2026-06-19T21:20:08.000Z",
-      "dateLabel": "19/06/2026, 21:09:12 - 19/06/2026, 22:20:08",
-      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260619-210912-45vc",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 22,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260619-210912-87pv",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-06-19T20:09:12.000Z",
-      "dateEnd": "2026-06-19T21:20:08.000Z",
-      "dateLabel": "19/06/2026, 21:09:12 - 19/06/2026, 22:20:08",
-      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260619-210912-87pv",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 22,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260502-190036-2yij",
-      "title": "Dalaxis",
-      "commanders": [
-        "Dalaxis"
-      ],
-      "dateStart": "2026-05-02T18:00:36.000Z",
-      "dateEnd": "2026-05-02T19:40:19.000Z",
-      "dateLabel": "02/05/2026, 19:00:36 - 02/05/2026, 20:40:19",
-      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260502-190036-2yij",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 12,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 46
-      }
-    },
-    {
-      "id": "20260430-212338-hnaz",
-      "title": "Mr Dynamic",
-      "commanders": [
-        "Mr Dynamic"
-      ],
-      "dateStart": "2026-04-30T20:23:38.000Z",
-      "dateEnd": "2026-04-30T22:10:56.000Z",
-      "dateLabel": "30/04/2026, 21:23:38 - 30/04/2026, 23:10:56",
-      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260430-212338-hnaz",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 16,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 34,
-        "avgEnemySize": 57
-      }
-    },
-    {
-      "id": "20260427-193414-4e9t",
-      "title": "Chromatic Storm",
-      "commanders": [
-        "Chromatic Storm"
-      ],
-      "dateStart": "2026-04-27T18:34:14.000Z",
-      "dateEnd": "2026-04-27T18:43:40.000Z",
-      "dateLabel": "27/04/2026, 19:34:14 - 27/04/2026, 19:43:40",
-      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260427-193414-4e9t",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 5,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 5,
-        "avgEnemySize": 22
-      }
-    },
-    {
-      "id": "20260426-203846-lvpt",
-      "title": "Darks Traya",
-      "commanders": [
-        "Darks Traya"
-      ],
-      "dateStart": "2026-04-26T19:38:46.000Z",
-      "dateEnd": "2026-04-26T20:55:51.000Z",
-      "dateLabel": "26/04/2026, 20:38:46 - 26/04/2026, 21:55:51",
-      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260426-203846-lvpt",
-      "summary": {
-        "borderlandsPct": 0.25,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 6,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 42,
-        "avgEnemySize": 27
-      }
-    },
-    {
-      "id": "20260417-221251-m4aa",
-      "title": "Darks Traya",
-      "commanders": [
-        "Darks Traya"
-      ],
-      "dateStart": "2026-04-17T21:12:51.000Z",
-      "dateEnd": "2026-04-17T22:02:29.000Z",
-      "dateLabel": "17/04/2026, 22:12:51 - 17/04/2026, 23:02:29",
-      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260417-221251-m4aa",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 8,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 38,
-        "avgEnemySize": 58
-      }
-    },
-    {
-      "id": "20260412-204528-mgb7",
-      "title": "An Angel In Love",
-      "commanders": [
-        "An Angel In Love"
-      ],
-      "dateStart": "2026-04-12T19:45:28.000Z",
-      "dateEnd": "2026-04-12T20:26:16.000Z",
-      "dateLabel": "12/04/2026, 20:45:28 - 12/04/2026, 21:26:16",
-      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260412-204528-mgb7",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 8,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 12,
-        "avgEnemySize": 18
-      }
-    },
-    {
-      "id": "20260410-210839-5ovu",
-      "title": "Darks Traya",
-      "commanders": [
-        "Darks Traya"
-      ],
-      "dateStart": "2026-04-10T20:08:39.000Z",
-      "dateEnd": "2026-04-10T21:33:27.000Z",
-      "dateLabel": "10/04/2026, 21:08:39 - 10/04/2026, 22:33:27",
-      "url": "https://ChromaticOrb.github.io/axibridge-other/?report=20260410-210839-5ovu",
-      "summary": {
-        "borderlandsPct": 0.9444444444444444,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 17,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 35,
-        "avgEnemySize": 33
-      }
+      "avgSquadSize": 24,
+      "avgEnemySize": 31
     }
-  ]
-}
+  },
+  {
+    "id": "20260619-210912-45vc",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-06-19T20:09:12.000Z",
+    "dateEnd": "2026-06-19T21:20:08.000Z",
+    "dateLabel": "19/06/2026, 21:09:12 - 19/06/2026, 22:20:08",
+    "url": "https://chromaticorb.github.io/axibridge-other/?report=20260619-210912-45vc",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 22,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260619-210912-87pv",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-06-19T20:09:12.000Z",
+    "dateEnd": "2026-06-19T21:20:08.000Z",
+    "dateLabel": "19/06/2026, 21:09:12 - 19/06/2026, 22:20:08",
+    "url": "https://chromaticorb.github.io/axibridge-other/?report=20260619-210912-87pv",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 22,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260502-190036-2yij",
+    "title": "Dalaxis",
+    "commanders": [
+      "Dalaxis"
+    ],
+    "dateStart": "2026-05-02T18:00:36.000Z",
+    "dateEnd": "2026-05-02T19:40:19.000Z",
+    "dateLabel": "02/05/2026, 19:00:36 - 02/05/2026, 20:40:19",
+    "url": "https://chromaticorb.github.io/axibridge-other/?report=20260502-190036-2yij",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 12,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 46
+    }
+  },
+  {
+    "id": "20260430-212338-hnaz",
+    "title": "Mr Dynamic",
+    "commanders": [
+      "Mr Dynamic"
+    ],
+    "dateStart": "2026-04-30T20:23:38.000Z",
+    "dateEnd": "2026-04-30T22:10:56.000Z",
+    "dateLabel": "30/04/2026, 21:23:38 - 30/04/2026, 23:10:56",
+    "url": "https://chromaticorb.github.io/axibridge-other/?report=20260430-212338-hnaz",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 57
+    }
+  },
+  {
+    "id": "20260427-193414-4e9t",
+    "title": "Chromatic Storm",
+    "commanders": [
+      "Chromatic Storm"
+    ],
+    "dateStart": "2026-04-27T18:34:14.000Z",
+    "dateEnd": "2026-04-27T18:43:40.000Z",
+    "dateLabel": "27/04/2026, 19:34:14 - 27/04/2026, 19:43:40",
+    "url": "https://chromaticorb.github.io/axibridge-other/?report=20260427-193414-4e9t",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 5,
+      "avgEnemySize": 22
+    }
+  },
+  {
+    "id": "20260426-203846-lvpt",
+    "title": "Darks Traya",
+    "commanders": [
+      "Darks Traya"
+    ],
+    "dateStart": "2026-04-26T19:38:46.000Z",
+    "dateEnd": "2026-04-26T20:55:51.000Z",
+    "dateLabel": "26/04/2026, 20:38:46 - 26/04/2026, 21:55:51",
+    "url": "https://chromaticorb.github.io/axibridge-other/?report=20260426-203846-lvpt",
+    "summary": {
+      "borderlandsPct": 0.25,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 6,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 42,
+      "avgEnemySize": 27
+    }
+  },
+  {
+    "id": "20260417-221251-m4aa",
+    "title": "Darks Traya",
+    "commanders": [
+      "Darks Traya"
+    ],
+    "dateStart": "2026-04-17T21:12:51.000Z",
+    "dateEnd": "2026-04-17T22:02:29.000Z",
+    "dateLabel": "17/04/2026, 22:12:51 - 17/04/2026, 23:02:29",
+    "url": "https://chromaticorb.github.io/axibridge-other/?report=20260417-221251-m4aa",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 8,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 38,
+      "avgEnemySize": 58
+    }
+  },
+  {
+    "id": "20260412-204528-mgb7",
+    "title": "An Angel In Love",
+    "commanders": [
+      "An Angel In Love"
+    ],
+    "dateStart": "2026-04-12T19:45:28.000Z",
+    "dateEnd": "2026-04-12T20:26:16.000Z",
+    "dateLabel": "12/04/2026, 20:45:28 - 12/04/2026, 21:26:16",
+    "url": "https://chromaticorb.github.io/axibridge-other/?report=20260412-204528-mgb7",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 8,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 12,
+      "avgEnemySize": 18
+    }
+  },
+  {
+    "id": "20260410-210839-5ovu",
+    "title": "Darks Traya",
+    "commanders": [
+      "Darks Traya"
+    ],
+    "dateStart": "2026-04-10T20:08:39.000Z",
+    "dateEnd": "2026-04-10T21:33:27.000Z",
+    "dateLabel": "10/04/2026, 21:08:39 - 10/04/2026, 22:33:27",
+    "url": "https://ChromaticOrb.github.io/axibridge-other/?report=20260410-210839-5ovu",
+    "summary": {
+      "borderlandsPct": 0.9444444444444444,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 17,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 35,
+      "avgEnemySize": 33
+    }
+  }
+]
