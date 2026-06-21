@@ -1,28 +1,5 @@
 [
   {
-    "id": "20260619-210912-aws2",
-    "title": "A K Baba",
-    "commanders": [
-      "A K Baba"
-    ],
-    "dateStart": "2026-06-19T20:09:12.000Z",
-    "dateEnd": "2026-06-19T21:20:08.000Z",
-    "dateLabel": "19/06/2026, 21:09:12 - 19/06/2026, 22:20:08",
-    "url": "https://chromaticorb.github.io/axibridge-other/?report=20260619-210912-aws2",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 22,
-          "color": "#ffffff"
-        }
-      ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 31
-    }
-  },
-  {
     "id": "20260619-210912-anft",
     "title": "A K Baba",
     "commanders": [
