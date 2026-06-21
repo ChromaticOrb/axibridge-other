@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260619-194506-r9di",
+      "title": "A K Baba, D R A F T",
+      "commanders": [
+        "A K Baba",
+        "D R A F T"
+      ],
+      "dateStart": "2026-06-19T18:45:06.000Z",
+      "dateEnd": "2026-06-19T21:20:08.000Z",
+      "dateLabel": "19/06/2026, 19:45:06 - 19/06/2026, 22:20:08",
+      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260619-194506-r9di",
+      "summary": {
+        "borderlandsPct": 0.3125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260502-190036-2yij",
       "title": "Dalaxis",
       "commanders": [
