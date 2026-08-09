@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-151534-yly6",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-09T14:15:34.000Z",
+      "dateEnd": "2026-08-09T15:22:07.000Z",
+      "dateLabel": "09/08/2026, 15:15:34 - 09/08/2026, 16:22:07",
+      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260809-151534-yly6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260621-190510-0li4",
       "title": "Aggressives Albino",
       "commanders": [
