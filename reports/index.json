@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-200718-uzvi",
+      "title": "Treezlebub",
+      "commanders": [
+        "Treezlebub"
+      ],
+      "guild": {
+        "id": "9B8CE75B-3EF8-F011-BB16-027E23B0622D",
+        "name": "Tactical Aggression Lethal Nature",
+        "tag": "TALN"
+      },
+      "dateStart": "2026-08-18T19:07:18.000Z",
+      "dateEnd": "2026-08-18T21:49:08.913Z",
+      "dateLabel": "18/08/2026, 20:07:18 - 18/08/2026, 22:49:08",
+      "url": "https://chromaticorb.github.io/axibridge-other/?report=20260818-200718-uzvi",
+      "summary": {
+        "borderlandsPct": 0.7837837837837838,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260809-151534-yly6",
       "title": "Four K Ping Sil",
       "commanders": [
